@@ -1,4 +1,3 @@
-
 # WhisperAI_Tg
 
 A small telegram bot based on the openAI whisper library and python-telegram-bot that translates voice messages into text messages.
@@ -52,3 +51,5 @@ Whisper's performance varies widely depending on the language. The figure below 
 
 # Afterwords
 It would be nice if you could tell me what to do better or how to correct any errors, if any. I hope for your understanding
+# Credits
+[OpenAi](https://github.com/openai) for their project [Whisper](https://github.com/openai/whisper)
